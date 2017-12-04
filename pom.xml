@@ -7,8 +7,6 @@
 
   <dependencies>
   	<!-- 添加sevlet支持 -->
-
-	  
   	<dependency>
 	    <groupId>javax.servlet</groupId>
 	    <artifactId>javax.servlet-api</artifactId>
